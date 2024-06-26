@@ -1,15 +1,5 @@
 # Capstone - Integrative Approach to Disease Detection and Classification through Image Analysis
 
-# Team Info 
-Saurabh Vishwanath Zulkanthiwar
-Sujay Torvi
-Harsh Trivedi
-Priyansh Prakash More
-Kunal Raj
-Zhiyuan Xue
-Haochen Wang
-Ayushi Ajay Walia
-Kajal Rangwani
 
 # Project Overview: 
 This project focuses on applying machine learning and deep learning techniques to analyse medical imaging data to detect and classify Alzheimer's disease, dementia, and brain tumours. By leveraging advanced algorithms and neuroimaging data, the study aims to develop robust predictive models that can accurately identify these neurodegenerative disorders.
